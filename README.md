@@ -1,4 +1,4 @@
-## Lab-2 Prelab: Hire an Engineer
+Hire an Engineer
 
 In this programming lab, you are given a scenario and a Java project. You are asked to write multiple class declarations, implement the methods desribed and test the correctness of your implementation by using the test code given in the project. Please note that we may test your codes by other test cases as well.
 
